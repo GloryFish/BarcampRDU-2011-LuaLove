@@ -15,12 +15,6 @@ The LÖVE API documentation.
 
 The Lua documentation.
 
+## [HUMP Library](https://github.com/vrld/hump)
 
-## [Middleclass](https://github.com/kikito/middleclass/wiki)
-
-A smallish class library for Lua.
-
-
-## [HUMP Library](http://vrld.github.com/hump/)
-
-Useful tools for making games.
+Useful classes and tools for making games.
