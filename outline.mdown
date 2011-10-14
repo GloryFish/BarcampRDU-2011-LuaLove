@@ -34,12 +34,13 @@
 - love.graphics.draw()
 - love.graphics.print('Hello World', 10, 10)
 
-### Images and movement
+### Lets make a game!
 
-- image = love.graphics.newImage()
-- love.
-### 
+### Game Jams
 
+## Games we've made
+
+### Questions?
 
 
 
